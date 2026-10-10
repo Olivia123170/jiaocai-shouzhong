@@ -1,2 +1,18 @@
-# jiaocai-shouzhong
-konglingjia
+# 教材受众（中英文双版本）
+
+**姓名：** 孔令嘉（konglingjia）
+**GitHub：** [@Olivia123170](https://github.com/Olivia123170)
+
+## 文件清单
+
+| 文件 | 说明 |
+| --- | --- |
+| [教材受众_中文版.md](孔令嘉/教材受众_中文版.md) | 教材受众分析（中文版） |
+| [教材受众_英文版.md](孔令嘉/教材受众_英文版.md) | Target Audience of the Textbook（英文版） |
+
+## 说明
+
+本仓库收录《教材受众》一文的中英文双版本 Markdown 文件，由 孔令嘉 整理。
+
+- 英文版：由 `教材受众_英文版.pdf` 提取正文转换而来
+- 中文版：对应的中文译文
